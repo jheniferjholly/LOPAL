@@ -1,0 +1,5 @@
+print("quais os creditos adicionados?")
+a = int(input(""))
+print("Qual os valores que já estavam no cartão?")
+b = int(input(""))
+print(a+b)
